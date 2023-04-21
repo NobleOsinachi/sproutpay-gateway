@@ -1,8 +1,3 @@
-About: Payment gateway for spoutpay with implementation of Flutterwave API for payment
-Running on React, Node.js backend, Express, MongoDB
-
-Target users: SMEs
-
 # Payment Gateway for Spoutpay
 
 This repository provides a payment gateway for Spoutpay that allows SMEs to accept payments using the Flutterwave API.
